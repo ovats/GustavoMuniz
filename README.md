@@ -1,4 +1,3 @@
-
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Gustavo!
@@ -17,16 +16,27 @@ Almost at the same time I started learning about Akka. First it was "Akka Essent
 
 My journey includes also learning Apache Kafka, in particular I like courses from Stephane Maarek, awesome teacher!
 
-I love to help people, send me a message!
+What can you find in this repository?
+
+I always to try new libraries, new frameworks, new languages.
+Everytime I try something new I try to upload it here.
+You will find projects related to:
+
+- Play Framework
+- Akka Http
+- Akka Streams
+- libraries like Pureconfig, Tapir
 
   ---
-Learning plans for 2022:
+Learning plan for 2022:
 
 - learn Scala 3
 - learn Elixir
 - learn Node.js
 - learn Pyhton
 
-Also I'm very interested in Big Data and Data Science.
+But that's not all! I'm very interested in Big Data and Data Science, I wish I could have more time for learning!
+
+I love to help people, send me a message!
 
   ---
