@@ -18,25 +18,29 @@ My journey includes also learning Apache Kafka, in particular I like courses fro
 
 What can you find in this repository?
 
-I always to try new libraries, new frameworks, new languages.
+I always to try new libraries, frameworks, plugins, languages, etc.
 Everytime I try something new I try to upload it here.
 You will find projects related to:
 
 - Play Framework
 - Akka Http
 - Akka Streams
-- libraries like Pureconfig, Tapir
+- Apache Kafka, Avro
+- libraries like Pureconfig, Tapir, Scopt and others
+- Docker
 
-  ---
+---
+
 Learning plan for 2022:
 
 - learn Scala 3
 - learn Elixir
+- learn Solidity
 - learn Node.js
 - learn Pyhton
 
 But that's not all! I'm very interested in Big Data and Data Science, I wish I could have more time for learning!
 
-I love to help people, send me a message!
+I love to help people, just send me a message!
 
-  ---
+---
