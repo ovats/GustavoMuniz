@@ -1,7 +1,24 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Gustavo!
-</p>
+
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Postgresql-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Cassandra-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MessageBrokers-ApacheKafka-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frameworks-PlayFramework-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkits-AkkaHttp-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkits-AkkaStreams-informational?style=flat&logoColor=white&color=2bbc8a)
+
+<h1 align='center'>
+I'm Gustavo!  
+</h1>
+
 
 I've started with Scala in December 2018.
 In the beginning it was really tough. I remember this conversation:
@@ -16,7 +33,7 @@ Almost at the same time I started learning about Akka. First it was "Akka Essent
 
 My journey includes also learning Apache Kafka, in particular I like courses from Stephane Maarek, awesome teacher!
 
-What can you find in this repository?
+👉 What can you find in this repository?
 
 I always to try new libraries, frameworks, plugins, languages, etc.
 Everytime I try something new I try to upload it here.
@@ -29,9 +46,7 @@ You will find projects related to:
 - libraries like Pureconfig, Tapir, Scopt and others
 - Docker
 
----
-
-Learning plan for 2022:
+♥️ Learning plan for 2022:
 
 - learn Scala 3
 - learn Elixir
@@ -41,6 +56,4 @@ Learning plan for 2022:
 
 But that's not all! I'm very interested in Big Data and Data Science, I wish I could have more time for learning!
 
-I love to help people, just send me a message!
-
----
+<p align='center'>I love to help people, just send me a message to <a href="https://www.linkedin.com/in/gustavomuniz/">LinkedIn</a>!</p>
